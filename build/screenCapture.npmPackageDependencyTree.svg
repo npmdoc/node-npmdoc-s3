@@ -1,0 +1,23 @@
+<svg height="318" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="318" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ s3@4.4.0 </tspan>
+<tspan x="10" y="90">  ├─┬ aws-sdk@2.0.31 </tspan>
+<tspan x="10" y="106">  │ ├─┬ xml2js@0.2.6 </tspan>
+<tspan x="10" y="122">  │ │ └── sax@0.4.2 </tspan>
+<tspan x="10" y="138">  │ └── xmlbuilder@0.4.2 </tspan>
+<tspan x="10" y="154">  ├── fd-slicer@1.0.1 </tspan>
+<tspan x="10" y="170">  ├── findit2@2.2.3 </tspan>
+<tspan x="10" y="186">  ├─┬ graceful-fs@3.0.11 </tspan>
+<tspan x="10" y="202">  │ └── natives@1.1.0 </tspan>
+<tspan x="10" y="218">  ├── mime@1.2.11 </tspan>
+<tspan x="10" y="234">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="250">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="266">  ├── pend@1.2.0 </tspan>
+<tspan x="10" y="282">  ├── rimraf@2.2.8 </tspan>
+<tspan x="10" y="298">  └── streamsink@1.2.0</tspan>
+</text>
+</svg>
