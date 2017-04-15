@@ -1,11 +1,13 @@
 # api documentation for  [s3 (v4.4.0)](https://github.com/andrewrk/node-s3-client)  [![npm package](https://img.shields.io/npm/v/npmdoc-s3.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-s3) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-s3.svg)](https://travis-ci.org/npmdoc/node-npmdoc-s3)
 #### high level amazon s3 client. upload and download files and directories
 
-[![NPM](https://nodei.co/npm/s3.png?downloads=true)](https://www.npmjs.com/package/s3)
+[![NPM](https://nodei.co/npm/s3.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/s3)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-s3/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-s3_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-s3/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-s3/build/screenCapture.buildCi.browser.apidoc.html.png)](https://npmdoc.github.io/node-npmdoc-s3/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-s3/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-s3/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-s3/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
@@ -66,13 +68,11 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "superjoe",
-            "email": "superjoe30@gmail.com"
+            "name": "superjoe"
         }
     ],
     "name": "s3",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/andrewrk/node-s3-client.git"
