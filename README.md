@@ -1,4 +1,7 @@
-# api documentation for  [s3 (v4.4.0)](https://github.com/andrewrk/node-s3-client)  [![npm package](https://img.shields.io/npm/v/npmdoc-s3.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-s3) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-s3.svg)](https://travis-ci.org/npmdoc/node-npmdoc-s3)
+# npmdoc-s3
+
+#### basic api documentation for  [s3 (v4.4.0)](https://github.com/andrewrk/node-s3-client)  [![npm package](https://img.shields.io/npm/v/npmdoc-s3.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-s3) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-s3.svg)](https://travis-ci.org/npmdoc/node-npmdoc-s3)
+
 #### high level amazon s3 client. upload and download files and directories
 
 [![NPM](https://nodei.co/npm/s3.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/s3)
@@ -82,7 +85,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "4.4.0"
+    "version": "4.4.0",
+    "bin": {}
 }
 ```
 
